@@ -1,6 +1,6 @@
  # **Sketchy App Blocker**
 
-Sketchy was one of my first Python projects. I learnt Python as I developed this project, hence the 'sketchy' spaghetti code and inconsistent variable naming. Sketchy is a functional based programming project, which is hindsight was a bad idea. 
+Sketchy was one of my first Python projects. I learnt Python as I developed this project, hence the spaghetti code, lack of proper comments and inconsistent variable naming. Sketchy is a functional based programming project, which is hindsight was a bad idea. 
 
 You can find a demonstration of the project [here](https://www.youtube.com/watch?v=9tTuM99Hxrs). 
 
